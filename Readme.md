@@ -33,7 +33,7 @@ Plaintext
 Clone o repositório:
 
 Bash
-git clone https://github.com/Sidney00131/ong-asben-app.git
+git clone https://github.com/AlanADS753/App_Asben
 Instale as dependências:
 
 Bash
